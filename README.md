@@ -19,10 +19,12 @@ The project is developed with the goal of producing accurate future predictions,
 
 🔬 Models Implemented
 1️⃣ ARIMA
+![Uploading Screenshot 2025-12-06 at 8.39.50 PM.png…]()
 
 Suitable for non-seasonal time series
 
 Captures linear trends and short-term dependencies
+
 
 2️⃣ SARIMA
 
